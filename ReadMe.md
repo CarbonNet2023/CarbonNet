@@ -20,9 +20,6 @@ Alongside the dataset, CarbonNet provides a suite of analysis tools. These tools
 ## Usage
 Researchers and academics are welcome to use this dataset and the accompanying tools for their studies, provided that proper attribution is given to the CarbonNet project and its contributors.
 
-## Copyright
-© [Your Name/Institution]. All Rights Reserved.
-
 The contents of this project, including the dataset and analysis tools, are the intellectual property of the project contributors. While open for academic use, any replication, modification, or distribution of the material must be done with appropriate credits to the original creators.
 
 ---
