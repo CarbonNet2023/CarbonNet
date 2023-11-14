@@ -1,8 +1,6 @@
-Below is a formal README template for your GitHub project "CarbonNet", formatted using GitHub Markdown. This README provides a comprehensive overview of your project while adhering to formal academic standards. 
-
----
-
 # CarbonNet
+
+CarbonNet: Enterprise-level Carbon Emission Prediction with Large-scale Datasets
 
 ## Overview
 CarbonNet is an open-source research project aimed at advancing the understanding of corporate carbon emissions. This project is part of an academic paper submitted to PAKDD 2024 and provides a comprehensive dataset along with analysis tools for studying carbon emissions of companies over a span of 21 years.
@@ -26,21 +24,6 @@ Researchers and academics are welcome to use this dataset and the accompanying t
 © [Your Name/Institution]. All Rights Reserved.
 
 The contents of this project, including the dataset and analysis tools, are the intellectual property of the project contributors. While open for academic use, any replication, modification, or distribution of the material must be done with appropriate credits to the original creators.
-
-## Citation
-If you use this dataset or tools in your research, please cite as follows:
-
-```bibtex
-@inproceedings{yourname2024carbonnet,
-  title={CarbonNet: A Comprehensive Dataset and Analysis Tools for Corporate Carbon Emission Studies},
-  author={Your Name and Collaborators},
-  booktitle={PAKDD 2024},
-  year={2024}
-}
-```
-
-## Contact
-For any queries related to the dataset or the CarbonNet project, please contact [Your Contact Information].
 
 ---
 
